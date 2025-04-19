@@ -5,6 +5,13 @@ AaltoAI Hackathon, Microsoft GenAI Challenge
 # LLM Assisted RFP Processing Pipeline
 <img src="./templates/logo.png" alt="drawing" style="width:200px;"/>
 
+## Team
+
+- [Mehmet Yiğit Balık](https://github.com/YigitBalik)
+- [Batuhan Avcı](https://github.com/batuhanaavci)
+- [Mihriban Nur Koçak](https://github.com/mihribannurkocak)
+- Yakup Enes Biçer
+
 ## Overview
 In the competitive B2B sector, responding efficiently and accurately to Requests for Proposals (RFPs) is crucial for securing new contracts and investments. Our global company, which manufactures and sells a diverse range of products, is embracing Generative AI to enhance our response process to RFPs. This project aims to reduce manual labor, accelerate response times, and improve the accuracy of our proposals.
 
