@@ -2,7 +2,7 @@
 AaltoAI Hackathon, Microsoft GenAI Challenge
 
 
-# AI-Assisted RFP Processing Pipeline
+# LLM Assisted RFP Processing Pipeline
 <img src="./templates/logo.png" alt="drawing" style="width:200px;"/>
 
 ## Overview
